@@ -7,24 +7,24 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://davidiyendo.netlify.app/#about</loc>
+    <loc>https://davidiyendo.netlify.app/about</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://davidiyendo.netlify.app/#projects</loc>
+    <loc>https://davidiyendo.netlify.app/projects</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://davidiyendo.netlify.app/#contact</loc>
+    <loc>https://davidiyendo.netlify.app/contact</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+  <!-- <url>
     <loc>https://davidiyendo.netlify.app/case%20studies/Flight%20Booking%20Redesign%20%E2%80%93%20UI_UX%20Case%20Study.pdf</loc>
     <lastmod>2026-02-08</lastmod>
     <changefreq>never</changefreq>
@@ -47,5 +47,5 @@
     <lastmod>2026-02-08</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
-  </url>
+  </url> -->
 </urlset>
