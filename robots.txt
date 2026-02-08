@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /CV/
+Disallow: /*.pdf$
+
+Sitemap: https://davidiyendo.netlify.app/sitemap.xml
+
+User-agent: AdsBot-Google
+Allow: /
